@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/My-Portifolio/static/css/main.b7bdc045.css",
+    "main.js": "/My-Portifolio/static/js/main.c90e4ba7.js",
+    "static/js/787.06e8c5db.chunk.js": "/My-Portifolio/static/js/787.06e8c5db.chunk.js",
+    "static/media/SolarSystem.png": "/My-Portifolio/static/media/SolarSystem.b31604b129ab0d647e1e.png",
+    "static/media/FrontEndOnlineStore.png": "/My-Portifolio/static/media/FrontEndOnlineStore.f6e7592f0095ec0e14af.png",
+    "static/media/TrybeTunes.png": "/My-Portifolio/static/media/TrybeTunes.8837f42eb4a02b3358ae.png",
+    "static/media/TrybeShopping.png": "/My-Portifolio/static/media/TrybeShopping.57fa2adc00312f3fb922.png",
+    "static/media/TrybeWarts.png": "/My-Portifolio/static/media/TrybeWarts.a76dc3528f506bef7f12.png",
+    "static/media/Tryunfo.png": "/My-Portifolio/static/media/Tryunfo.5f1089b5832dd2af5aec.png",
+    "static/media/mainPic.png": "/My-Portifolio/static/media/mainPic.a9c0152d275b156cbf9c.png",
+    "index.html": "/My-Portifolio/index.html",
+    "main.b7bdc045.css.map": "/My-Portifolio/static/css/main.b7bdc045.css.map",
+    "main.c90e4ba7.js.map": "/My-Portifolio/static/js/main.c90e4ba7.js.map",
+    "787.06e8c5db.chunk.js.map": "/My-Portifolio/static/js/787.06e8c5db.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7bdc045.css",
+    "static/js/main.c90e4ba7.js"
+  ]
+}
